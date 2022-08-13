@@ -3,7 +3,7 @@
 
 # Overview of the analysis:
 
-The purpose of this project is to analyze stock market return data by refactoring an existed starter code. We will also look at the performance of the code. 
+The purpose of this project is to analyze stock market return data by refactoring an existed starter code. We will also look at the performance of the code before and after refactoring. 
 
 # Results
 
@@ -20,4 +20,8 @@ Comparing the 2017 and the 2018 stocks, the difference in the total daily volume
 
 ![Run time - 2017](https://user-images.githubusercontent.com/102333060/183308396-b14930b1-806e-48f2-ae61-a1ae78d38df3.png)
 
+# Summary
+
+* When working to refactor an exist code, it could save a lot of time because the framework or the outline of the scrip is in place. If the preexisting code is readable, it increases the likelihood of success in quickly refactoring it for different purpose. 
+* The performance of the refactored code is increased by about 15%. 
 
