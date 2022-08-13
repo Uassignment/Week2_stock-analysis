@@ -1,4 +1,4 @@
-# Week2_stock-analysis
+# Module2_stock-analysis
 
 
 # Overview of the analysis:
